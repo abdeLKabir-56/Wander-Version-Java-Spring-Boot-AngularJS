@@ -1,0 +1,19 @@
+.centered-container {
+    display: flex;
+    justify-content: center; /* horizontally center */
+    align-items: center; /* vertically center */
+    height: 100vh; /* full viewport height */
+    background-color: lightgray; /* for visualization, remove this in production */
+    border: 1px solid black; /* for visualization, remove this in production */
+  }
+  
+  .search-form {
+    padding: 20px; /* adjust padding as needed */
+    background-color: white; /* for visualization, remove this in production */
+  }
+  
+  /* Additional styling if needed */
+  .search-input {
+    width: 300px; /* or any other desired width */
+  }
+  
