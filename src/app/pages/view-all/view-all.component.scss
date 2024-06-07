@@ -1,0 +1,25 @@
+.card-container {
+    margin: 16px;
+    max-width: 60%;
+    padding-bottom: 30px;
+  }
+  
+  .post-img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+  }
+  
+  mat-card {
+    padding: 10px;
+  }
+  
+  mat-card-footer {
+    margin-left: 20px;
+  }
+  .example-header-image {
+    background-image: url('https://img.freepik.com/photos-gratuite/celebre-arche-vallonpontd-arc-ardeche-france_268835-3941.jpg?w=1060&t=st=1714495364~exp=1714495964~hmac=639bed3585520fdc0a81006c33f178908a6b9d93b79802fed2862e8623c6093e');
+    background-size: cover;
+  }
+  
